@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vc-upwork",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d7f78667-6867-4e6f-ada0-cc0c519efe62",
+			"database_name": "vc-d1-upwork-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
